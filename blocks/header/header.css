@@ -2,13 +2,14 @@
 
 header {
     background-color: #002953;
-    width: 1088px;
+    /* width: 1088px; */
     margin: 0 auto;
     height: 62px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
+    color: #fff;
 }
 
 /* header .nav-wrapper {
