@@ -1,5 +1,17 @@
 /* header and nav layout */
-header .nav-wrapper {
+
+header{
+  background-color: #002953;
+  width: 1088px;
+  margin: 0 auto;
+  height: 62px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+/* header .nav-wrapper {
     background-color: #002953;
     /* width: 100%; */
     /* z-index: 2; */
@@ -11,7 +23,7 @@ header .nav-wrapper {
     justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
-}
+} */
 
 header nav {
     box-sizing: border-box;
