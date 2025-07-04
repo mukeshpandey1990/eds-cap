@@ -187,9 +187,9 @@ export default async function decorate(block) {
   navWrapper.className = "nav-wrapper";
   navWrapper.append(nav);
   block.append(navWrapper);
-
-  const header = document.querySelector(".header-wrapper");
-  header.style.display = "flex";
-  header.style.justifyContent = "center"; // Horizontal center
-  header.style.alignItems = "center"; // Vertical center (optional)
 }
+
+const header = document.querySelector(".header-wrapper");
+header.style.display = "flex";
+header.style.justifyContent = "center"; // Horizontal center
+header.style.alignItems = "center"; // Vertical center (optional)
