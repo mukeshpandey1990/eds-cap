@@ -160,6 +160,7 @@
 
 .offerings.block div {
     display: flex;
+    align-items: center;
 }
 
 .offerings-wrapper {
