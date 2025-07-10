@@ -199,6 +199,8 @@
     transition: box-shadow 0.3s ease-in-out, opacity 0.3s ease-in-out;
     background-color: #fff;
     padding: 24px;
+    flex-direction: column;
+    display: flex;
 }
 
 .experiencecontainer.block div {
