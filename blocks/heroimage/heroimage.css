@@ -208,7 +208,7 @@
     width: 285px;
 }
 
-.experiencecontainer.block div div:nth-of-type(2) {
+/* .experiencecontainer.block div div:nth-of-type(2) {
     width: 100%;
     height: auto;
     display: grid;
@@ -218,7 +218,7 @@
     grid-column-gap: 16px;
     column-gap: 16px;
     position: relative;
-}
+} */
 
 .experiencecontainer.block div div {
     width: 100%;
