@@ -115,3 +115,16 @@
     width: 1088px;
     margin: 0 auto;
 }
+
+.practitioner.block div div {
+    width: 18% !important;
+}
+
+.practitioner.block div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    height: auto;
+    width: 1088px;
+}
