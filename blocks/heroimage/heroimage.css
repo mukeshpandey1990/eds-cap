@@ -60,3 +60,7 @@
 .hero.block {
     height: 100vh;
 }
+
+.hero-wrapper img {
+    height: -webkit-fill-available;
+}
