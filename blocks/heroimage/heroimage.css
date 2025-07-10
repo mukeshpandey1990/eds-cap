@@ -201,6 +201,7 @@
     padding: 24px;
     flex-direction: column;
     display: flex;
+    margin: 10px;
 }
 
 .experiencecontainer.block div {
