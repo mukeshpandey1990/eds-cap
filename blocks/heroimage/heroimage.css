@@ -208,6 +208,10 @@
     width: 285px;
 }
 
+.experiencecontainer.block div div table {
+    padding: 24px;
+}
+
 /* .experiencecontainer.block div div:nth-of-type(2) {
     width: 100%;
     height: auto;
@@ -228,7 +232,6 @@
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease-in-out, opacity 0.3s ease-in-out;
     background-color: #fff;
-    padding: 24px;
     flex-direction: column;
     display: flex;
     margin: 10px;
