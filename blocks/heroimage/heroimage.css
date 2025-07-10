@@ -220,7 +220,7 @@
     position: relative;
 }
 
-.experiencecontainer.block div div table {
+.experiencecontainer.block div div {
     width: 100%;
     height: auto;
     gap: 8px;
