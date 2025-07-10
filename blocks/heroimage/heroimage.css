@@ -36,3 +36,23 @@
 .hero picture {
     z-index: 0;
 }
+
+.section.hero-container {
+    color: #fff;
+    background: radial-gradient(
+            496.32% 257.59% at -26.17% 99.91%,
+            #204566 2.92%,
+            #035278 4.4%,
+            #025080 11.95%,
+            #031e39 48.82%,
+            #090a19 69.11%,
+            #070716 91.95%,
+            #070510 100%
+        ),
+        radial-gradient(
+            155.09% 266.02% at -17.81% 42.75%,
+            rgba(8, 6, 18, 0.8) 18.2%,
+            rgba(7, 80, 120, 0) 77%
+        );
+    background-blend-mode: overlay;
+}
