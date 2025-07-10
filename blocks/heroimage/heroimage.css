@@ -245,6 +245,7 @@
     background: linear-gradient(134.95deg, #40a6ff, #00294d 95.9%);
     color: #fff;
     cursor: pointer;
+    border: 12px;
 }
 
 /* .experiencecontainer.block div div:nth-of-type(2) {
