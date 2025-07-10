@@ -204,6 +204,20 @@
     margin: 10px;
 }
 
+.experiencecontainer.block div div table {
+    width: 100%;
+    height: auto;
+    gap: 8px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    background-color: #fff;
+    padding: 24px;
+    flex-direction: column;
+    display: flex;
+    margin: 10px;
+}
+
 .experiencecontainer.block div {
     width: 100%;
     height: auto;
