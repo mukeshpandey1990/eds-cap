@@ -204,6 +204,10 @@
     margin: 10px;
 } */
 
+.experiencecontainer.block div div {
+    width: 285px;
+}
+
 .experiencecontainer.block div div:nth-of-type(2) {
     width: 100%;
     height: auto;
