@@ -87,3 +87,15 @@
 .heroimage-wrapper {
     width: 33%;
 }
+
+.join-hands-wrapper {
+    font-family: var(--font-rubik);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 37.92px;
+    text-align: left;
+    text-underline-position: "from-font";
+    -webkit-text-decoration-skip-ink: none;
+    text-decoration-skip-ink: none;
+    color: #00294d;
+}
