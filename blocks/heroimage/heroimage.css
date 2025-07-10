@@ -189,3 +189,25 @@
     margin: 0px;
     padding-top: 0px;
 }
+
+.experiencecontainer.block div div {
+    width: 100%;
+    height: auto;
+    gap: 8px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    background-color: #fff;
+}
+
+.experiencecontainer.block div {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-row-gap: 16px;
+    row-gap: 16px;
+    grid-column-gap: 16px;
+    column-gap: 16px;
+    position: relative;
+}
