@@ -64,3 +64,10 @@
 .hero-wrapper img {
     height: 100vh;
 }
+
+.heroimage-wrapper {
+    position: absolute;
+    bottom: 0%;
+    color: #fff;
+    left: 8%;
+}
