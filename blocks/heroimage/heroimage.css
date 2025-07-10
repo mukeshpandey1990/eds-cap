@@ -122,9 +122,10 @@
     padding: 28px;
     background: rgba(150, 211, 255, 0.102);
     border-radius: 24px;
-    width: 198px;
+    width: 13%;
     height: 166px;
     justify-content: center;
+    gap: 0px;
 }
 
 .practitioner.block div {
