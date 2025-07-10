@@ -146,3 +146,8 @@
 .practitioner.block {
     margin: 96px 0px;
 }
+
+.practitioner-wrapper {
+    width: 1088px;
+    margin: 0 auto;
+}
