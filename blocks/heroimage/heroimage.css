@@ -176,6 +176,10 @@
     width: 30%;
 }
 
+.experiencecontainer.block div div table tbody tr td p:nth-of-type(3) {
+    text-align: end;
+}
+
 .offerings.block div div p {
     font-family: var(--font-rubik);
     font-size: 32px;
