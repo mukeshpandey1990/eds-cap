@@ -174,3 +174,16 @@
 .offerings.block div div:nth-of-type(2) {
     width: 30%;
 }
+
+.offerings.block div div p {
+    font-family: var(--font-rubik);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: left;
+    text-underline-position: "from-font";
+    -webkit-text-decoration-skip-ink: none;
+    text-decoration-skip-ink: none;
+    color: #00294d;
+    padding-top: 30px;
+}
