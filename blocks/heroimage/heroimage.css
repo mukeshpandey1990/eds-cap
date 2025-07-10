@@ -99,3 +99,8 @@
     text-decoration-skip-ink: none;
     color: #00294d;
 }
+
+.hero-wrapper picture {
+    width: 1088px;
+    margin: 0 auto;
+}
