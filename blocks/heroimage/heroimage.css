@@ -151,3 +151,9 @@
     width: 1088px;
     margin: 0 auto;
 }
+
+.offerings.block div div picture img {
+    height: 184px;
+    width: 311px;
+    margin-right: 20px;
+}
