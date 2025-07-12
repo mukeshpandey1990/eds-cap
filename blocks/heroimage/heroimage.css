@@ -295,3 +295,9 @@
     height: auto;
     margin-top: 0;
 }
+
+.msmesector div div {
+    grid-column: span 2;
+    height: 232px;
+    width: 100%;
+}

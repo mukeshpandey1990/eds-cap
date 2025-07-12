@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
   container.innerHTML = `<h2>${title}</h2><p>${description}</p>`;
 });
 
-const td = document.querySelector(
-  ".msmesector table tbody tr:nth-child(1) td:nth-child(1)"
-);
-td.setAttribute("colspan", "2");
+// const td = document.querySelector(
+//   ".msmesector table tbody tr:nth-child(1) td:nth-child(1)"
+// );
+// td.setAttribute("colspan", "2");
