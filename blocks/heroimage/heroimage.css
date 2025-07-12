@@ -296,8 +296,8 @@
     margin-top: 0;
 }
 
-.msmesector div div > :first-child {
+/* .msmesector div div > :first-child {
     grid-column: span 2;
     height: 232px;
     width: 100%;
-}
+} */
