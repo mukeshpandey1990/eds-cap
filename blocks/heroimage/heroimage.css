@@ -296,7 +296,7 @@
     margin-top: 0;
 }
 
-.msmesector div div {
+.msmesector div div table tbody tr td picture {
     grid-column: span 2;
     height: 232px;
     width: 100%;
