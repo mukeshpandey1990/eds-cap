@@ -285,5 +285,13 @@
     position: relative;
 }
 
-.msmesector div div table tbody tr td {
+.msmesector.block div {
+    display: grid;
+    grid-gap: 16px;
+    gap: 16px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    width: 100%;
+    height: auto;
+    margin-top: 0;
 }
