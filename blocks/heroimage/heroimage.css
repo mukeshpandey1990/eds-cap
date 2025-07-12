@@ -285,7 +285,7 @@
     position: relative;
 }
 
-.msmesector.block div div {
+.msmesector.block div {
     display: grid;
     grid-gap: 16px;
     gap: 16px;
