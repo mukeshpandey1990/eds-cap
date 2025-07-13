@@ -334,7 +334,7 @@
     gap: 24px;
 }
 
-.partners.block div:nth-of-type(2) p {
+.partners.block div:nth-of-type(2) p:nth-of-type(1) {
     font-family: var(--font-rubik);
     font-size: 24px;
     font-weight: 600;
