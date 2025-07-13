@@ -352,3 +352,23 @@
     color: #00294d;
     margin-bottom: 24px;
 }
+
+.ourpractices.block div div p {
+    font-family: var(--font-rubik);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    color: rgb(0, 41, 77);
+}
+
+.successstories.block div div p {
+    font-family: var(--font-rubik);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    color: rgb(0, 41, 77);
+}
