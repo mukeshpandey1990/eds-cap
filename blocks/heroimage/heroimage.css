@@ -306,6 +306,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 16px;
 }
 
 .partners.block div div table tbody tr td picture img {
