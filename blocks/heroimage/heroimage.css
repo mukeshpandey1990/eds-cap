@@ -342,3 +342,13 @@
     text-align: left;
     color: #1e1e1e;
 }
+
+.keypartners.block div div p {
+    font-family: var(--font-rubik);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 37.92px;
+    text-align: left;
+    color: #00294d;
+    margin-bottom: 24px;
+}
