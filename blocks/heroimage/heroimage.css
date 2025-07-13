@@ -316,3 +316,8 @@
     gap: 0;
     object-fit: contain;
 }
+
+.partners.block div div table tbody {
+    display: flex;
+    gap: 16px;
+}
