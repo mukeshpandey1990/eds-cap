@@ -322,3 +322,8 @@
     display: flex;
     gap: 16px;
 }
+
+.partners.block div {
+    display: flex;
+    column-gap: 12%;
+}
