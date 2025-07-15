@@ -439,8 +439,8 @@
 
 .department.block div div p:nth-of-type(2) {
     font-family: var(--font-rubik);
-    font-size: 18px;
-    font-weight: 500;
+    font-size: 14px;
+    /* font-weight: 500; */
     line-height: 22px;
     color: #1e1e1e;
     text-align: left;
