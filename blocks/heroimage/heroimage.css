@@ -372,3 +372,24 @@
     text-decoration-skip-ink: none;
     color: rgb(0, 41, 77);
 }
+
+.testimonials.block div div p {
+    font-family: var(--font-rubik);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    color: #00294d;
+    text-align: left;
+}
+
+.department.block div {
+    width: 100%;
+    height: 264px;
+    column-gap: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.department.block div div {
+    display: flex;
+}
