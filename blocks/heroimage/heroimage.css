@@ -390,7 +390,8 @@
     justify-content: space-between;
 }
 
-.department.block div div {
+.department.block div div:nth-of-type(2) {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
