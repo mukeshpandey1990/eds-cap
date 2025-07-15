@@ -325,7 +325,8 @@
 
 .partners.block div {
     display: flex;
-    column-gap: 12%;
+    column-gap: 22%;
+    align-items: center;
 }
 
 .partners.block div:nth-of-type(2) {
