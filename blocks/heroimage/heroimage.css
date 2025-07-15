@@ -387,7 +387,8 @@
     height: 264px;
     column-gap: 90px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 15px;
 }
 
 .department.block div div:nth-of-type(1) {
