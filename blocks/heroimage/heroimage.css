@@ -239,8 +239,7 @@
     border: 12px;
 }
 
-.experiencecontainer.block div div,
-.successcontainer.block div div {
+.experiencecontainer.block div div {
     width: 100%;
     height: auto;
     gap: 8px;
@@ -504,10 +503,6 @@ main .section.highlight {
     height: auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-row-gap: 16px;
-    row-gap: 16px;
-    grid-column-gap: 16px;
-    column-gap: 16px;
     position: relative;
 }
 
@@ -522,4 +517,8 @@ main .section.highlight {
     width: 385px;
     height: 232px;
     margin: 10px;
+    border-radius: 8px;
+    background-color: #fff;
+    flex-direction: column;
+    display: flex;
 }
