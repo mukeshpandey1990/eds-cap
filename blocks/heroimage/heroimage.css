@@ -176,11 +176,13 @@
     width: 30%;
 }
 
-.experiencecontainer.block div div table tbody tr td p:nth-of-type(3) {
+.experiencecontainer.block div div table tbody tr td p:nth-of-type(3),
+.successcontainer.block div div table tbody tr td p:nth-of-type(3) {
     text-align: end;
 }
 
-.experiencecontainer.block div div table tbody tr td p:nth-of-type(1) {
+.experiencecontainer.block div div table tbody tr td p:nth-of-type(1),
+.successcontainer.block div div table tbody tr td p:nth-of-type(1) {
     font-family: var(--font-rubik);
     font-size: 24px;
     font-weight: 600;
@@ -192,7 +194,8 @@
     margin-bottom: 24px;
 }
 
-.experiencecontainer.block div div table tbody tr td p:nth-of-type(2) {
+.experiencecontainer.block div div table tbody tr td p:nth-of-type(2),
+.successcontainer.block div div table tbody tr td p:nth-of-type(2) {
     font-family: var(--font-rubik);
     font-size: 18px;
     font-weight: 400;
@@ -217,30 +220,19 @@
     padding-top: 0px;
 }
 
-/* .experiencecontainer.block div div:nth-of-type(1) {
-    width: 100%;
-    height: auto;
-    gap: 8px;
-    border-radius: 8px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.3s ease-in-out, opacity 0.3s ease-in-out;
-    background-color: #fff;
-    padding: 24px;
-    flex-direction: column;
-    display: flex;
-    margin: 10px;
-} */
-
-.experiencecontainer.block div div {
+.experiencecontainer.block div div,
+.successcontainer.block div div {
     width: 285px;
 }
 
-.experiencecontainer.block div div table {
+.experiencecontainer.block div div table,
+.successcontainer.block div div table {
     padding: 24px;
     border: 12px;
 }
 
-.experiencecontainer.block div div table:hover {
+.experiencecontainer.block div div table:hover,
+.successcontainer.block div div table:hover {
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
     background: linear-gradient(134.95deg, #40a6ff, #00294d 95.9%);
     color: #fff;
@@ -248,19 +240,8 @@
     border: 12px;
 }
 
-/* .experiencecontainer.block div div:nth-of-type(2) {
-    width: 100%;
-    height: auto;
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-row-gap: 16px;
-    row-gap: 16px;
-    grid-column-gap: 16px;
-    column-gap: 16px;
-    position: relative;
-} */
-
-.experiencecontainer.block div div {
+.experiencecontainer.block div div,
+.successcontainer.block div div {
     width: 100%;
     height: auto;
     gap: 8px;
@@ -273,7 +254,8 @@
     margin: 10px;
 }
 
-.experiencecontainer.block div {
+.experiencecontainer.block div,
+.successcontainer.block div {
     width: 100%;
     height: auto;
     display: grid;
