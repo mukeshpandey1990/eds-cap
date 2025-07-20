@@ -510,3 +510,7 @@ main .section.highlight {
     width: 130px;
     height: 76px;
 }
+
+.cards > ul > li {
+    border-radius: 10px;
+}
