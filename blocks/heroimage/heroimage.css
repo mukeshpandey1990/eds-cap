@@ -514,3 +514,7 @@ main .section.highlight {
 .cards > ul > li {
     border-radius: 10px;
 }
+
+.cards > ul > li img {
+    border-radius: 10px 10px 0 0;
+}
