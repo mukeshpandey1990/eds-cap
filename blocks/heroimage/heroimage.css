@@ -496,3 +496,17 @@ main .section.highlight {
     right: 750px;
     width: 24px;
 }
+
+.footer.block::before {
+    content: "";
+    display: block;
+    background-image: url(.../icons/Dots.png);
+    position: absolute;
+    right: 3px;
+    top: 5px;
+    z-index: 99;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 130px;
+    height: 76px;
+}
