@@ -517,3 +517,9 @@ main .section.highlight {
     height: 232px;
     border-radius: 10px;
 }
+
+.successcontainer.block div div {
+    width: 385px;
+    height: 232px;
+    margin: 10px;
+}
