@@ -451,10 +451,14 @@
 }
 
 .default-content-wrapper p picture img {
-    width: 106px;
+    width: 106px !important;
     height: 42px;
 }
 
-/* .default-content-wrapper p span img {
+.default-content-wrapper p span img {
     display: none;
-} */
+}
+
+nav#nav {
+    gap: 125px;
+}
