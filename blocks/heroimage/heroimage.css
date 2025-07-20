@@ -484,3 +484,8 @@ main .section.highlight {
 .ourpractices.block div div table tbody tr td table {
     width: 100%;
 }
+
+.ourpractices.block div div table tbody tr td table tbody tr td {
+    font-size: 18px;
+    line-height: 24px;
+}
