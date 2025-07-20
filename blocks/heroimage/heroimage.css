@@ -466,3 +466,7 @@ nav#nav {
 .hero h1 {
     font-size: 1px;
 }
+
+footer.footer-wrapper div div div div:nth-of-type(1) {
+    background: #00294d;
+}
