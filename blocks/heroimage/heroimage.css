@@ -445,3 +445,7 @@
     color: #1e1e1e;
     text-align: left;
 }
+
+.default-content-wrapper p a {
+    display: none;
+}
