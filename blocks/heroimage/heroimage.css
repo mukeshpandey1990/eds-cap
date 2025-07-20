@@ -449,3 +449,8 @@
 .default-content-wrapper p a {
     display: none;
 }
+
+.default-content-wrapper p picture img {
+    width: 106px;
+    height: 42px;
+}
