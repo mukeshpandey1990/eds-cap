@@ -462,3 +462,7 @@
 nav#nav {
     gap: 125px;
 }
+
+.hero h1 {
+    font-size: 1px;
+}
