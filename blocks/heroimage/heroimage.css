@@ -525,7 +525,8 @@ main .section.highlight {
     display: flex;
 }
 
-.section .highlight .cards-container {
+main .section.light,
+main .section.highlight {
     padding: 0px;
 }
 
