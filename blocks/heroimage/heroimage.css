@@ -467,6 +467,7 @@ nav#nav {
     font-size: 1px;
 }
 
-footer.footer-wrapper div div div div:nth-of-type(1) {
+footer.footer-wrapper {
     background: #00294d;
+    color: #fff;
 }
