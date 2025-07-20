@@ -476,3 +476,11 @@ main .section.light,
 main .section.highlight {
     background-color: #fff;
 }
+
+.ourpractices.block div div table {
+    width: 50%;
+}
+
+.ourpractices.block div div table tbody tr td table {
+    width: 100%;
+}
