@@ -454,3 +454,7 @@
     width: 106px;
     height: 42px;
 }
+
+.default-content-wrapper p span img {
+    display: none;
+}
