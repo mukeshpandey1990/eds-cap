@@ -471,3 +471,8 @@ footer.footer-wrapper {
     background: #00294d;
     color: #fff;
 }
+
+main .section.light,
+main .section.highlight {
+    background-color: #fff;
+}
