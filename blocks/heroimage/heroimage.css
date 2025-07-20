@@ -490,3 +490,9 @@ main .section.highlight {
     line-height: 24px;
     padding-bottom: 24px;
 }
+
+.ourpractices.block div div table tbody tr td table tbody tr td picture img {
+    position: absolute;
+    right: 750px;
+    width: 24px;
+}
